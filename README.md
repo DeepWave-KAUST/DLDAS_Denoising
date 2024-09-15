@@ -50,5 +50,14 @@ After running, go to folder `outputs` in the root_path, and you will find the de
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-DW0033 - O. M. Saad, M. Ravasi, T. Alkhalifah (2023) Distributed Acoustic Sensing Data Denoising Using a Guided Unsupervised Deep Learning Network.
-
+```bibtex
+@article{saad2024noise,
+  title={Noise Attenuation in Distributed Acoustic Sensing Data Using a Guided Unsupervised Deep Learning Network},
+  author={Saad, Omar M and Ravasi, Matteo and Alkhalifah, Tariq},
+  journal={Geophysics},
+  volume={89},
+  number={6},
+  pages={1--62},
+  year={2024},
+  publisher={Society of Exploration Geophysicists}
+}
