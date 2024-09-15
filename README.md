@@ -2,7 +2,6 @@
 
 Reproducible material for Distributed Acoustic Sensing Data Denoising Using a Guided Unsupervised Deep Learning Network- **Omar M. Saad, Matteo Ravasi, Tariq Alkhalifah**
 
-[Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/REPORTS/DW0033?csf=1&web=1&e=L65d1x) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
 
 # Project structure
 This repository is organized as follows:
