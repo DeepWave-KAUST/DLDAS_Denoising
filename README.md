@@ -1,6 +1,6 @@
 ![LOGO](https://github.com/DeepWave-Kaust/DAS-Denoising-dev/blob/main/asset/Das_Denoising_Arch.png)
 
-Official reproducible material for Noise attenuation in distributed acoustic sensing data using a guided unsupervised deep learning network
+Official reproducible material for **Noise attenuation in distributed acoustic sensing data using a guided unsupervised deep learning network**
 
 # Project structure
 This repository is organized as follows:
@@ -14,13 +14,13 @@ This repository is organized as follows:
 
 
 ## Getting started :space_invader: :robot:
-To ensure reproducibility of the results, we suggest using the `DASDL.yml` file when creating an environment.
+To ensure the reproducibility of the results, we suggest using the `DASDL.yml` file when creating an environment.
 
 Simply run:
 ```
 ./install_env.sh
 ```
-It will take some time, if at the end you see the word `Done!` on your terminal you are ready to go. 
+It will take some time, but if at the end you see the word `Done!` on your terminal you are ready to go. 
 
 Remember to always activate the environment by typing:
 ```
