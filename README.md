@@ -1,7 +1,6 @@
 ![LOGO](https://github.com/DeepWave-Kaust/DAS-Denoising-dev/blob/main/asset/Das_Denoising_Arch.png)
 
-Reproducible material for Distributed Acoustic Sensing Data Denoising Using a Guided Unsupervised Deep Learning Network- **Omar M. Saad, Matteo Ravasi, Tariq Alkhalifah**
-
+Official reproducible material for Noise attenuation in distributed acoustic sensing data using a guided unsupervised deep learning network
 
 # Project structure
 This repository is organized as follows:
